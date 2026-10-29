@@ -126,3 +126,6 @@ $ curl http://<host>:8080/api/cart/metrics
 $ curl http://<host>:8080/api/payment/metrics
 ```
 
+
+## Automated Deployment
+Deployed to AWS EC2 using Docker Compose and GitHub Actions.
