@@ -15,7 +15,7 @@ This sample microservice application has been built using these technologies:
 - MySQL ([Maxmind](http://www.maxmind.com) data)
 - RabbitMQ
 - Nginx
-- AngularJS (1.x)
+- AngularJS (2.x)
 
 The various services in the sample application already include all required Instana components installed and configured. The Instana components provide automatic instrumentation for complete end to end [tracing](https://docs.instana.io/core_concepts/tracing/), as well as complete visibility into time series metrics for all the technologies.
 
