@@ -11,7 +11,7 @@ This sample microservice application has been built using these technologies:
 - Golang
 - PHP (Apache)
 - MongoDB
-- Redis
+- Redish g
 - MySQL ([Maxmind](http://www.maxmind.com) data)
 - RabbitMQ
 - Nginx
